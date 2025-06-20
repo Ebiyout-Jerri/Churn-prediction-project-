@@ -42,5 +42,7 @@ The app outputs:
 ## Enhancements
 ```
 - Integrated SHAP for explainability
+- Report generation
+- Retention strategy development 
 ```
 Made to help businesses keep their valued customers.
